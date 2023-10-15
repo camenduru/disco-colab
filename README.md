@@ -19,3 +19,5 @@ https://menghanxia.github.io/projects/disco/disco_main.pdf
 https://menghanxia.github.io/projects/disco.html
 
 ## Output
+![Screenshot 2023-10-15 182432](https://github.com/camenduru/disco-colab/assets/54370274/7c198d0e-5687-4d68-baad-0c774e543a43)
+![Screenshot 2023-10-15 182541](https://github.com/camenduru/disco-colab/assets/54370274/f049f6a6-a14d-4772-90f8-f82cebe12b8d)
